@@ -37,7 +37,7 @@ Once you’ve created a virtual environment, you may activate it.
 
 ## Step3: Install the required package:
 
-- sd
+- On Windows / MacOS
   ```sh
   pip install colorama
   ```
@@ -46,7 +46,7 @@ Once you’ve created a virtual environment, you may activate it.
 
 ## Step4: Creating the "requirements.txt"
 
-- sds
+- On Windows / MacOS
   ```sh
   pip freeze > requirements.txt
   ```
