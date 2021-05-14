@@ -4,16 +4,16 @@
 
 ## Challenge 1
 
-#### create a Utility File for defining function.
+#### - create a Utility File for defining function.
 
-#### create a main app file for importing function and package
+#### - create a main app file for importing function and package
 
 ## Challenge 2 - Python Package Index page usage and installation
 
 #### Step1 (can be done only one time): Create your virtual environment
 
-To create a virtual environment, decide upon a directory where you want to place it,
-and run the venv module as a script with the directory path:
+- To create a virtual environment, decide upon a directory where you want to place it,
+  and run the venv module as a script with the directory path:
 
 > > python3 -m venv tutorial-env
 > > OR
