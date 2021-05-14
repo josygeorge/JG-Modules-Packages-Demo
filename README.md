@@ -57,4 +57,4 @@ Once you’ve created a virtual environment, you may activate it.
   pip freeze > requirements.txt
   ```
 
-## Coding the file
+## Coding the file and print the result
