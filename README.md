@@ -1,6 +1,14 @@
 # JG-Modules-Packages-Demo
 
-python modules packages challenge
+- python modules packages challenge
+
+# Challenge 1
+
+## create a Utility File for defining function.
+
+## create a main app file for importing function and package
+
+# Python Package Index page usage and installation
 
 ## Step1 (can be done only one time): Create your virtual environment
 
@@ -42,11 +50,11 @@ Once you’ve created a virtual environment, you may activate it.
   pip install colorama
   ```
 
-# start coding!
-
 ## Step4: Creating the "requirements.txt"
 
 - On Windows / MacOS
   ```sh
   pip freeze > requirements.txt
   ```
+
+# Coding the file
