@@ -4,13 +4,13 @@
 
 # Challenge 1
 
-## create a Utility File for defining function.
+#### create a Utility File for defining function.
 
-## create a main app file for importing function and package
+#### create a main app file for importing function and package
 
-# Python Package Index page usage and installation
+# Challenge 2 - Python Package Index page usage and installation
 
-## Step1 (can be done only one time): Create your virtual environment
+#### Step1 (can be done only one time): Create your virtual environment
 
 To create a virtual environment, decide upon a directory where you want to place it,
 and run the venv module as a script with the directory path:
@@ -19,7 +19,7 @@ and run the venv module as a script with the directory path:
 > > OR
 > > python -m venv tutorial-env
 
-## Step2 (done when opening your app): Activate your virtual environment
+#### Step2 (done when opening your app): Activate your virtual environment
 
 Once you’ve created a virtual environment, you may activate it.
 
@@ -43,18 +43,18 @@ Once you’ve created a virtual environment, you may activate it.
   source tutorial-env/bin/activate
   ```
 
-## Step3: Install the required package:
+#### Step3: Install the required package:
 
 - On Windows / MacOS
   ```sh
   pip install colorama
   ```
 
-## Step4: Creating the "requirements.txt"
+#### Step4: Creating the "requirements.txt"
 
 - On Windows / MacOS
   ```sh
   pip freeze > requirements.txt
   ```
 
-# Coding the file
+## Coding the file
