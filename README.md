@@ -16,15 +16,19 @@ and run the venv module as a script with the directory path:
 Once you’ve created a virtual environment, you may activate it.
 
 - On Windows, run:
+
   ```sh
   tutorial-env\Scripts\activate.bat
   ```
+
   ```sh
   .\tutorial-env\Scripts\activate
   ```
+
   ```sh
   tutorial-env\Scripts\activate
   ```
+
 - On Unix or MacOS, run:
 
   ```sh
@@ -33,14 +37,16 @@ Once you’ve created a virtual environment, you may activate it.
 
 ## Step3: Install the required package:
 
-    ```sh
-    pip install colorama
-    ```
+- sd
+  ```sh
+  pip install colorama
+  ```
 
 # start coding!
 
 ## Step4: Creating the "requirements.txt"
 
-    ```sh
-    pip freeze > requirements.txt
-    ```
+- sds
+  ```sh
+  pip freeze > requirements.txt
+  ```
