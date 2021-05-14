@@ -2,13 +2,13 @@
 
 - python modules packages challenge
 
-# Challenge 1
+## Challenge 1
 
 #### create a Utility File for defining function.
 
 #### create a main app file for importing function and package
 
-# Challenge 2 - Python Package Index page usage and installation
+## Challenge 2 - Python Package Index page usage and installation
 
 #### Step1 (can be done only one time): Create your virtual environment
 
