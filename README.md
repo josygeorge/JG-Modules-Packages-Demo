@@ -27,9 +27,9 @@ Once you’ve created a virtual environment, you may activate it.
   ```
 - On Unix or MacOS, run:
 
-```sh
+  ```sh
   source tutorial-env/bin/activate
-```
+  ```
 
 ## Step3: Install the required package:
 
